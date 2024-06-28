@@ -1,0 +1,2 @@
+Çalıştırmak için    "npm install" 
+sonrasına           "npm run start"     yazılmalıdır
